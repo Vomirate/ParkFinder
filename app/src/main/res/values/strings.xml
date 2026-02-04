@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ParkFinder</string>
+
+    <string name="btn_park_here">Zaparkuj tutaj</string>
+    <string name="btn_show_car">Pokaż auto</string>
+    <string name="btn_history">Historia</string>
+
+    <string name="title_home">ParkFinder</string>
+    <string name="title_map">Nawigacja do auta</string>
+    <string name="title_history">Historia parkowań</string>
+
+    <string name="no_car_saved">Brak zapisanej lokalizacji auta.</string>
+    <string name="car_saved">Auto zapisane!</string>
+
+    <string name="permission_location_title">Wymagana lokalizacja</string>
+    <string name="permission_location_desc">Aplikacja potrzebuje dostępu do lokalizacji, aby zapisać i pokazać miejsce auta.</string>
+
+    <string name="permission_camera_title">Wymagany aparat</string>
+    <string name="permission_camera_desc">Aplikacja potrzebuje dostępu do aparatu, aby włączyć latarkę.</string>
+
+    <string name="permission_notifications_title">Powiadomienia</string>
+    <string name="permission_notifications_desc">Pozwól na powiadomienia, aby działało przypomnienie czasu parkowania.</string>
+
+    <string name="reminder_set">Przypomnienie ustawione</string>
+    <string name="reminder_cancelled">Przypomnienie usunięte</string>
+    <string name="reminder_extend_15">Przedłużono o 15 min</string>
+
+    <string name="notif_channel_name">Przypomnienia ParkFinder</string>
+    <string name="notif_channel_desc">Powiadomienia o czasie parkowania</string>
+
+    <string name="notif_title">Czas parkowania</string>
+    <string name="notif_text">Sprawdź czy nie kończy się czas parkowania.</string>
+
+    <string name="action_extend_15">Przedłuż 15 min</string>
+    <string name="action_dismiss">Usuń</string>
+
+    <string name="light_low_hint">Jest ciemno — włącz latarkę?</string>
+    <string name="torch_on">Latarka: WŁ.</string>
+    <string name="torch_off">Latarka: WYŁ.</string>
+
+    <string name="timer_label">Przypomnienie</string>
+    <string name="timer_1h">1 godzina</string>
+    <string name="timer_2h">2 godziny</string>
+    <string name="timer_30m">30 minut</string>
+
+    <string name="saved_at">Zapisano</string>
+    <string name="open_google_maps">Otwórz w Google Maps</string>
+    <string name="unknown_address">Nieznany adres</string>
+</resources>

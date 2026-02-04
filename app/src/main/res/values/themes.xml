@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme dla Compose/Material3 (bez NoActionBar, bo i tak nie używamy ActionBar w Compose) -->
+    <style name="Theme.ParkFinder" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- opcjonalnie kolory systemowe -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
